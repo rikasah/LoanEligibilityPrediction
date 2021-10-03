@@ -24,5 +24,10 @@ The Loan Eligibility Prediction project will explain the workflow for assessing 
 In a Simple Term, Company wants to make automate the Loan Eligibility Process in a real time scenario related to customer's detail provided while applying application for home loan forms. That why, I try to create some project to solve that problem. When I used this Dataset, there are many new thing I have to learn until I can finish this project. I have attach Presentation file about this project. If you need to see my presentation for this project, you can visit my youtube channel or click this link. I also upload about this project in my LinkedIn, feel free to connect
 
 
+# Presentation on Youtube
+
+https://bit.ly/LEP_rikasahriana
+
+
 #DataScience #DataScienceProject #DataScienceBootcamp #MachineLearning #ProjecrMachineLearning #LoanPrediction #Finance #DataAnalisyt #DataPreparation #EDA #HyperTuningParameter #Modeling #LoanEligibilityPrediction
 
