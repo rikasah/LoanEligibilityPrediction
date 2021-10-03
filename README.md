@@ -6,7 +6,14 @@ The Loan Eligibility Prediction project will explain the workflow for assessing 
 - Numpy
 - Seaborn
 - Matplotlib
+- scikit-learn
 
+# Algorithms
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Extra Tress
 
 # The steps taken in this project are:
 - Data Collection and Processing
